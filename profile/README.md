@@ -1,11 +1,14 @@
 <div align="center">
 
 ```
-  ┌─┐        ● ← commit
-  │ │   ┌────╯
-  └─┼───┘     ← the branch returns
-    ●
-revert — every action is a commit
+    ┌─┐        • ← commit
+    │ │        │
+    │ │   ┌────┘
+    │ │   │
+    └─┼───┘     ← the branch returns
+      │
+      •
+revert - every action is a commit
 ```
 
 # Revert Labs
