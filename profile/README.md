@@ -1,6 +1,5 @@
 <div align="center">
 
-```
     ┌─┐        • ← commit
     │ │        │
     │ │   ┌────┘
@@ -9,7 +8,6 @@
       │
       •
 revert - every action is a commit
-```
 
 # Revert Labs
 
