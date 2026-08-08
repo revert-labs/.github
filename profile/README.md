@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/revert-labs/.github/main/profile/logo.svg" width="380" alt="Revert Labs — every action is a commit, anything can be rolled back" />
 
+🌐 [**revert-labs.github.io**](https://revert-labs.github.io) — the org site
+
 # Revert Labs
 
 ### git for AI agent actions — every action is a commit, anything can be rolled back.
