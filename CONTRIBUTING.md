@@ -26,12 +26,14 @@ commits, tests with every change, zero new dependencies without discussion.**
 
 ## Teams
 
-- **Core** — vision, the open/closed boundary, the crown jewel
-- **Dev** — the SDK and ledger
-- **Research** — compensation correctness, ADRs
-- **Infra / Ops / Sec / PR** — platform, deployments, security, community
+Two teams, on purpose (we're small — teams exist for access control, not titles):
 
-If you're an org member and want to join a team, ask a core-team member.
+- **Core** — the founders. Admin on every repo. Owns the vision, the open/closed
+  boundary, and the crown jewel (`revert-enterprise`).
+- **Dev** — everyone building. Write access to the open core (`revert`).
+
+Enterprise access is core-only by design. If you're an org member and want to join
+Dev, ask a core-team member.
 
 ## Style
 
