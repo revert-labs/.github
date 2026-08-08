@@ -15,6 +15,7 @@ boundaries shift.
 |---|---|---|---|
 | **Core** | founders (org owners) | admin on every repo, incl. `revert-enterprise` | Owns the vision, the open/closed boundary, and the crown jewel. Smallest possible group — the crown jewel is core-only by design. |
 | **Dev** | everyone building (current + new members) | write (push) on `revert` (open core) | The builders. PRs, issues, docs, tests. |
+| **Bots** | automation identities (`revert-bot`, CI) | least privilege needed per workflow | The exception to the two-member rule: machines, not people. A bot gets exactly the permissions its workflow needs — never human-level access. |
 
 Access summary:
 
