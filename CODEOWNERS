@@ -1,0 +1,7 @@
+# Org meta-repo owners: the core team holds every path.
+# See TEAMS.md for the team charter.
+* @revert-labs/thecoreteam
+
+# Branding is core-only territory (the mark is the company).
+profile/logo.svg @revert-labs/thecoreteam
+profile/README.md @revert-labs/thecoreteam
